@@ -10,6 +10,7 @@ I have created laravel crud operations.
 
 <img width="592" height="359" alt="image" src="https://github.com/user-attachments/assets/dbb731d1-b391-4a5f-9237-d58f7f7d5a09" />
 
+<img width="1677" height="383" alt="image" src="https://github.com/user-attachments/assets/5531076b-1e7b-4a9c-bf77-a30adad849f7" />
 
 
 
